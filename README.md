@@ -16,7 +16,7 @@ DermAI is an advanced dermatology expert system powered by OpenAI's GPT-4 model.
 
 DermAI is designed to offer reliable dermatological insights and image-based skin cancer detection.
 
-# Installation
+# Installation and Usage
 1. Clone this repository to your local machine: <br>
     ```bash
    git clone https://github.com/AnkiiB/DermAI
