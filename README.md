@@ -1,4 +1,4 @@
-# DermAI : A Dermatology Expert
+# DermAI : A Dermatology Chatbot
 
 DermAI is an advanced dermatology expert system powered by OpenAI's GPT-4 model. Leveraging Retrieval-Augmented Generation (RAG) techniques, DermAI answers questions about dermatology, including disease symptoms and potential diagnoses based on user inputs. The system utilizes a comprehensive PDF textbook as its knowledge base to provide accurate and informative responses.
 
