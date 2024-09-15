@@ -23,7 +23,7 @@ DermAI is designed to offer reliable dermatological insights and image-based ski
 
 3. Navigate to the project directory: <br>
    ```bash
-   cd 
+   cd DermAI
 
 5. Install the required dependencies using pip: <br>
    ```bash
