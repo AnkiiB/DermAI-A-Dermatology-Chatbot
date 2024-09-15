@@ -10,4 +10,21 @@ Knowledge Base: Derived from a detailed PDF textbook on dermatology.
 DermAI is designed to offer reliable dermatological insights and image-based skin cancer detection.
 
 # Installation
-1. .Clone this repository to your local machine:
+1. Clone this repository to your local machine:
+   git clone
+
+2. Navigate to the project directory:
+   cd
+
+3. Install the required dependencies using pip:
+   pip install -r requirements.txt
+
+4. Enter OpenAI API key in langchain.py:
+   openai_api_key = os.getenv('OPENAI_API_KEY')
+
+5. Run main.py
+
+6. Go to terminal and run:
+   streamlit run langchain.py
+
+   
