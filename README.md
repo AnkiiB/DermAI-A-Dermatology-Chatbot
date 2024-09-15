@@ -9,3 +9,5 @@ Image Analysis: Detects and classifies skin cancer from user-submitted images, i
 Knowledge Base: Derived from a detailed PDF textbook on dermatology.
 DermAI is designed to offer reliable dermatological insights and image-based skin cancer detection.
 
+# Installation
+1. .Clone this repository to your local machine:
