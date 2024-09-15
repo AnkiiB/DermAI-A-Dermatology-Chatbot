@@ -11,7 +11,7 @@ DermAI is designed to offer reliable dermatological insights and image-based ski
 
 # Installation
 1. Clone this repository to your local machine: <br>
-    ``` git clone ```
+    ``` git clone https://github.com/AnkiiB/DermAI ```
 
 2. Navigate to the project directory: <br>
    ```cd 
