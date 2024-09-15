@@ -18,21 +18,27 @@ DermAI is designed to offer reliable dermatological insights and image-based ski
 
 # Installation
 1. Clone this repository to your local machine: <br>
-    ```git clone https://github.com/AnkiiB/DermAI
+    ```bash
+   git clone https://github.com/AnkiiB/DermAI
 
-2. Navigate to the project directory: <br>
-   ```cd 
+3. Navigate to the project directory: <br>
+   ```bash
+   cd 
 
-3. Install the required dependencies using pip: <br>
-   ```pip install -r requirements.txt```
+5. Install the required dependencies using pip: <br>
+   ```bash
+   pip install -r requirements.txt
 
-4. Enter OpenAI API key in langchain.py: <br>
-   ```openai_api_key = os.getenv('OPENAI_API_KEY')```
+7. Enter OpenAI API key in langchain.py: <br>
+   ```bash
+   openai_api_key = os.getenv('OPENAI_API_KEY')
 
-5. Run main.py: <br>
-   ```python3 main.py```
+9. Run main.py: <br>
+   ```bash
+   python3 main.py
 
-6. Go to terminal and run: <br>
-   ```streamlit run langchain.py```
+11. Go to terminal and run: <br>
+   ```bash
+streamlit run langchain.py
 
    
