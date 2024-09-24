@@ -16,6 +16,8 @@ if not openai_api_key:
         "No OpenAI API key found. Set your OpenAI API key in the environment variables or use st.secrets for sensitive data.")
 
 # Define the file path for saving the FAISS index
+openai_api_key = "your-api-key'
+# Define the file path for saving the FAISS index
 FAISS_INDEX_PATH = "faiss_index"
 
 
